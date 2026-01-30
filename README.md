@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Junaid 👋🏻
 
-<!--
-**j-un-ai-d/j-un-ai-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy solving problems, building projects, and learning new things.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently studying Engineering at **North Western University, Khulna**.
+- Interested in coding, web development, AI and machine learning, tech innovations, software engineering, UX/UI design, building projects, problem-solving, and learning new technologies.
+
+## Projects
+
+- Projects I’m working on:
+  
+  - [ ] Project 1 – Internet Programming – [repo link]
+  - [ ] Project 2 – Software Engineering – [repo link]
+  - [ ] Project 3 – Microcontroller – [repo link]
+
+###### (Repos will be added soon)
+
+## Contact
+
+- Email: junaid.islam619@gmail.com
+- LinkedIn: https://www.linkedin.com/in/j-un-ai-d/
+
