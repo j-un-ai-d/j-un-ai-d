@@ -10,8 +10,7 @@ I enjoy solving problems, building projects, and learning new things.
 ## Projects
 
 - Projects I’m working on:
-  
-  - [ ] Project 1 – Internet Programming – [repo link]
+  - [x] Project 1 – Internet Programming – [Mamu-Market](https://github.com/ArifhasnatEmon/Mamu-Market)
   - [ ] Project 2 – Software Engineering – [repo link]
   - [ ] Project 3 – Microcontroller – [repo link]
 
